@@ -1,7 +1,8 @@
 # learn-linux
  ## What need i learn firts
   adalah sebuah perintah CLI ( Command LIne Interface )
-  ls, cd, cp, mv, rm, mkdir, touch
+  
+  ``ls, cd, cp, mv, rm, mkdir, touch
 
   cat, less, nano, vim
 
@@ -11,5 +12,5 @@
 
   ps, top, kill, htop
 
-  find, grep, which, echo
+  find, grep, which, echo``
  
