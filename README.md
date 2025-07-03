@@ -11,7 +11,7 @@
   ```
   Downloads Profile Pictures
   ```
-  ini akan bertambah seiringnya waktu yang berarti saya banyak mengertahui kosa kata
+  ini akan bertambah seiringnya waktu ( Command yang saya pelajari )
   
   ```
   ls, cd, cp, mv, rm, mkdir, touch
