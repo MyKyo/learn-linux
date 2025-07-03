@@ -1,5 +1,5 @@
 # learn-linux
- ## What need i learn firts
+ ## FORCE BRAIN TO DO SOMETHING PLEASE DON'T LAZY
  ### Terminal
   Perintah dasar CLI ( Command LIne Interface )
   ini akan bertambah seiringnya waktu yang berarti saya banyak mengertahui kosa kata
