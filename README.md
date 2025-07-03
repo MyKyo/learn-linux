@@ -11,7 +11,7 @@
   ```
   Downloads Profile Pictures
   ```
-  ini akan bertambah seiringnya waktu ( Command yang saya pelajari )
+  ini akan bertambah seiringnya waktu ( Command yang saya pelajari ) ( command yang memang ada di linuxnya tanpa tambahan lain )
   
   ```
   ls, cd, cp, mv, rm, mkdir, touch
