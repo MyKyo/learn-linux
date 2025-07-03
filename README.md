@@ -15,15 +15,10 @@
   
   ```
   ls, cd, cp, mv, rm, mkdir, touch
-
-  cat, less, nano, vim
-
+  cat, less
   man, --help
-
   sudo, chmod, chown
-
   ps, top, kill, htop
-
   find, grep, which, echo 
   ```
  
