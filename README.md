@@ -1,7 +1,8 @@
 # learn-linux
  ## What need i learn firts
  ### Terminal
-  perintah dasar CLI ( Command LIne Interface )
+  Perintah dasar CLI ( Command LIne Interface )
+  ini akan bertambah seringnya waktu yang berarti saya banyak mengertahui kosa kata
   
   ```
   ls, cd, cp, mv, rm, mkdir, touch
