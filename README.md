@@ -1,4 +1,4 @@
-# learn-linux
+# Learn Linux Terminal
  ## FORCE BRAIN TO DO SOMETHING PLEASE DON'T LAZY
  ### Terminal
   Perintah dasar CLI ( Command LIne Interface )
