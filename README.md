@@ -1,7 +1,7 @@
 # Learn Linux Terminal
  ## FORCE BRAIN TO DO SOMETHING PLEASE DON'T LAZY
  ### Terminal
-  Perintah dasar CLI ( Command LIne Interface )
+  Perintah dasar CLI ( Command Line Interface )
   ini akan bertambah seiringnya waktu yang berarti saya banyak mengertahui kosa kata
   
   ```
