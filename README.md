@@ -12,18 +12,12 @@
   Downloads Profile Pictures
   ```
   ini akan bertambah seiringnya waktu ( Command yang saya pelajari ) ( command yang memang ada di linuxnya tanpa tambahan lain )
-  
+
+  Coreutils
   ```
-  ls, cd, cp, mv, rm, mkdir, touch
-
-  cat, less
-
-  man, --help
-
-  sudo, chmod, chown
-
-  ps, top, kill, htop
-
-  find, grep, which, echo
+  ls
+  cd
+  who
+  yes
   ```
  
