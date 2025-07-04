@@ -18,7 +18,7 @@
   
   Coreutils
   sebuah Fundamental ( dasar ) tool dari GNU/Linux
-  Sedikit Penjelasan tentang GNU
+  Sedikit Penjelasan tentang GNU/Linux
   
   GNU adalah perangkat lunak bebas yang dibuat oleh Richard Stallman
   GNU ini banyak menyediakan perangkat lunak dasar dan utulitas yang   diperlukan agar perangkat bisa berjalan seperti complimer,shell,editor teks, dan lainnya
