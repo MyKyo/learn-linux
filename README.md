@@ -13,6 +13,8 @@
   ```
   ini akan bertambah seiringnya waktu ( Command yang saya pelajari ) ( command yang memang ada di linuxnya tanpa tambahan lain )
 
+  I use Arch so i gonna using wiki from Arch
+  https://wiki.archlinux.org/title/Core_utilities
   Coreutils
   ```
   ls
