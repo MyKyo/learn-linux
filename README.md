@@ -15,7 +15,16 @@
 
   I use Arch so i gonna using wiki from Arch
   https://wiki.archlinux.org/title/Core_utilities
+  
   Coreutils
+  sebuah Fundamental ( dasar ) tool dari GNU/Linux
+  Sedikit Penjelasan tentang GNU
+  GNU adalah perangkat lunak bebas yang dibuat oleh Richard Stallman
+  GNU ini banyak menyediakan perangkat lunak dasar dan utulitas yang   diperlukan akan perangkat bisa berjalan seperti complimer,shell,editor teks, dan lainnya
+
+  Linux dibuat oleh Linus Torvalds dan apa itu Linux? Linux adalah sebuah Kernel atau Inti System Operasi contohnya seperti Saat membuka software maka dia akan memintak layanan kernel lalu mengelolah proses ( hardware ) tersebu
+
+  Beberapa Command dari Coreutils
   ```
   ls
   cd
