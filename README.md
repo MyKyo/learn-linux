@@ -11,7 +11,7 @@
   ```
   Downloads Profile Pictures
   ```
-  ini akan bertambah seiringnya waktu
+  # ini akan bertambah seiringnya waktu
 
   I use Arch so i gonna using wiki from Arch
   https://wiki.archlinux.org/title/Core_utilities
