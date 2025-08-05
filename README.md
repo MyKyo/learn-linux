@@ -1,62 +1,88 @@
-# 🧠 Learn Linux Terminal  
-### 🚨 FORCE BRAIN TO DO SOMETHING — PLEASE DON'T BE LAZY
+# 🖥️ Learn Linux Terminal  
+> *"Force brain to do something. Please, don’t be lazy."* 💪
+
+Sebuah catatan pribadi untuk **menguasai terminal Linux** — langkah demi langkah, dari dasar hingga mahir.
 
 ---
 
-## 🖥️ Terminal 101 — Command Line Interface (CLI)
+## 📌 Apa Itu CLI (Command Line Interface)?
 
-**Apa itu CLI?**  
-CLI adalah antarmuka berbasis teks tempat kamu mengetikkan perintah langsung ke sistem.  
+CLI adalah antarmuka teks yang memungkinkan kamu berinteraksi langsung dengan sistem operasi menggunakan perintah.
 
-Sistem akan membaca input user (perintah yang valid), lalu mengeksekusi dan menampilkan hasilnya.
+### 🔧 Bagaimana CLI Bekerja?
+1. Kamu mengetik perintah (misal: `ls`)
+2. Shell membaca dan memproses input
+3. Sistem mengeksekusi perintah jika valid
+4. Hasil (output) ditampilkan di layar
 
 Contoh:
-
+```bash
+$ ls
 ```
-ls
+Output:
 ```
-Setelah kamu menekan Enter, sistem akan membaca perintah tersebut dan mengembalikan isi direktori:
-
+Downloads  Documents  Pictures  Projects
 ```
-Copy
-Edit
-Downloads  Profile  Pictures
+
+CLI memberi kendali penuh, efisiensi tinggi, dan merupakan kunci untuk menjadi pengguna Linux yang handal.
+
+> 📚 Sumber utama: [ArchWiki - Core Utilities](https://wiki.archlinux.org/title/Core_utilities)
+
+---
+
+## 🐧 GNU/Linux: Sedikit Gambaran
+
+### 🟦 GNU (GNU’s Not Unix)
+- Dibuat oleh **Richard Stallman** sebagai bagian dari proyek GNU untuk menciptakan sistem operasi bebas.
+- Menyediakan banyak utilitas penting: kompiler (`gcc`), shell (`bash`), editor (`nano`, `emacs`), dan lainnya.
+- Tapi GNU butuh **kernel** untuk berjalan.
+
+### 🟥 Linux (Kernel)
+- Dibuat oleh **Linus Torvalds**.
+- Linux adalah **kernel** — inti dari sistem operasi.
+- Kernel mengelola hardware, memori, proses, dan memberikan layanan ke aplikasi.
+
+### ✅ Jadi, Apa Itu GNU/Linux?
+> **GNU + Linux = Sistem Operasi Linux yang kita gunakan.**  
+GNU menyediakan tools, Linux menyediakan kernel.
+
+---
+
+## 🧰 Core Utilities (coreutils)
+
+Kumpulan perintah dasar dari proyek GNU yang menjadi tulang punggung sistem Linux. Hampir semua perintah dasar berasal dari `coreutils`.
+
+### 🔤 Perintah Dasar dari Coreutils
+
+| Perintah | Fungsi |
+|--------|--------|
+| `ls`   | Menampilkan daftar file dan direktori |
+| `cd`   | Berpindah direktori (change directory) |
+| `pwd`  | Menampilkan lokasi direktori saat ini (print working directory) |
+| `mkdir`| Membuat direktori baru |
+| `cp`   | Menyalin file atau direktori |
+| `mv`   | Memindahkan atau mengganti nama file |
+| `rm`   | Menghapus file atau direktori |
+| `cat`  | Menampilkan isi file |
+| `echo` | Mencetak teks ke terminal |
+| `who`  | Menampilkan pengguna yang sedang login |
+| `yes`  | Mencetak string terus-menerus (biasanya `y`) |
+| `date` | Menampilkan atau mengatur tanggal/waktu |
+
+### 💡 Contoh Penggunaan
+```bash
+$ mkdir belajar-linux
+$ cd belajar-linux
+$ echo "Hari ini saya belajar terminal!" > catatan.txt
+$ cat catatan.txt
 ```
-📌 Catatan: Ini akan terus bertambah seiring waktu dan pengalaman belajar.
+Output:
+```
+Hari ini saya belajar terminal!
+```
 
-📚 I Use Arch BTW...
-Karena aku pakai Arch Linux, referensi utama yang aku gunakan adalah:
+---
 
-🔗 Arch Wiki - Core Utilities
-
-🔧 Apa itu Coreutils?
-Coreutils adalah kumpulan perintah fundamental dari sistem GNU/Linux.
-Tanpa ini, kamu tidak bisa menjalankan perintah dasar seperti ls, cp, mv, dan sebagainya.
-
-🧩 Sekilas tentang GNU dan Linux
-GNU (dibuat oleh Richard Stallman) adalah proyek perangkat lunak bebas yang menyediakan tool penting seperti:
-
-Shell
-
-Compiler
-
-Text editor
-
-Dan banyak utilitas lainnya
-
-Linux (dibuat oleh Linus Torvalds) adalah kernel — inti dari sistem operasi yang menangani komunikasi dengan hardware.
-
-Jadi saat kamu membuka software, dia akan meminta layanan dari kernel untuk mengatur proses dan perangkat keras.
-
-🔑 Beberapa Perintah dari Coreutils
-bash
-Copy
-Edit
-ls      # Melihat isi direktori
-cd      # Pindah direktori
-who     # Melihat siapa user yang sedang login
-yes     # Mengulang teks terus-menerus (berguna untuk testing)
-🎯 Mission: Master the Terminal
-"Learn my passive skill: survive with no GUI."
-
-This doc will evolve. Keep pushing. Don't be lazy.
+## 🌱 Catatan Ini Akan Terus Berkembang
+> Setiap hari sedikit. Setiap minggu lebih baik.  
+> Tidak perlu cepat. Tapi **jangan berhenti**.
